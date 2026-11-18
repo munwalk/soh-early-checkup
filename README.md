@@ -1,19 +1,19 @@
 <div align="center">
 
 <a href="https://munwalk.github.io/soh-early-checkup/">
-  <img src="docs/banner-mono.svg" alt="배터리 건강검진 - 충전 초반 기록으로 SOH를 예측하고 확실할 때만 등급을 확정하는 단계별 판정 웹앱" width="100%">
+  <img src="docs/banner-blue.svg" alt="배터리 건강검진 - 충전 초반 기록으로 SOH를 예측하고 확실할 때만 등급을 확정하는 단계별 판정 웹앱" width="100%">
 </a>
 
 <br><br>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN_%E2%86%92-111316?style=for-the-badge&logo=githubpages&logoColor=white)](https://munwalk.github.io/soh-early-checkup/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN_%E2%86%92-1570EF?style=for-the-badge&logo=githubpages&logoColor=white)](https://munwalk.github.io/soh-early-checkup/)
 
-![HTML5](https://img.shields.io/badge/HTML5-2b2f36?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2b2f36?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Vanilla_JS-2b2f36?style=flat-square&logo=javascript&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2b2f36?style=flat-square)
-![Ridge](https://img.shields.io/badge/Ridge_Regression-2b2f36?style=flat-square)
-![No Backend](https://img.shields.io/badge/서버_없음-브라우저에서_계산-2b2f36?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=microsoft&logoColor=white)
+![Ridge](https://img.shields.io/badge/Ridge_(scikit--learn)-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![No Backend](https://img.shields.io/badge/서버_없음-브라우저에서_계산-1570EF?style=flat-square)
 
 <br>
 
