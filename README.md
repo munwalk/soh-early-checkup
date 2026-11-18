@@ -1,15 +1,12 @@
 <div align="center">
 
-# 배터리 건강검진
+<a href="https://munwalk.github.io/soh-early-checkup/">
+  <img src="docs/banner.svg" alt="배터리 건강검진 - 충전 초반 기록으로 SOH를 예측하고 확실할 때만 등급을 확정하는 단계별 판정 웹앱" width="100%">
+</a>
 
-### 이 배터리, 다시 써도 될까요?
+<br><br>
 
-충전 기록 몇 분만 보고 사용 후 배터리의 남은 성능(SOH)을 예측하고,<br>
-**확실할 때만 그 자리에서 등급을 확정**하는 단계별 판정 웹앱
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EB%B8%8C_%EB%8D%B0%EB%AA%A8-%EB%B0%94%EB%A1%9C_%EC%97%B4%EA%B8%B0-1570EF?style=for-the-badge&logo=githubpages&logoColor=white)](https://munwalk.github.io/soh-early-checkup/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN_%E2%86%92-1570EF?style=for-the-badge&logo=githubpages&logoColor=white)](https://munwalk.github.io/soh-early-checkup/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
