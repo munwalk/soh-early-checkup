@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://munwalk.github.io/soh-early-checkup/">
-  <img src="docs/banner.svg" alt="배터리 건강검진 - 충전 초반 기록으로 SOH를 예측하고 확실할 때만 등급을 확정하는 단계별 판정 웹앱" width="100%">
+  <img src="docs/banner-mono.svg" alt="배터리 건강검진 - 충전 초반 기록으로 SOH를 예측하고 확실할 때만 등급을 확정하는 단계별 판정 웹앱" width="100%">
 </a>
 
 <br><br>
